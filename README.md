@@ -2,6 +2,7 @@
 ### Sys Admin, Linux System Engineer LPIC2, Windows Administrator and Security Specialist
 - 🔭 I’m currently working on Lanlink at MPES
 - 🌱 I’m currently learning for LPIC3 Security and Devops
+- 🌱 I’m currently learning for LPIC3 Virtualization and Containers
 <!--
 **renatosetubal/renatosetubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
